@@ -1,8 +1,16 @@
 # Proyecto Final Modelos de Programación 
+## Autores ✒️
+
+* Jhojan Esneyder Rizo Arias – 20192020027
+* José Miguel Guzmán Quevedo – 20182020127
+* Juan Sebastián González Forero – 20181020029	
+
+## Descripcón📢
 
 _Este proyecto esta orientado a la creación y desarollo de un juego utilizando diferentes tecnologias con ambiente web, integracion de multiples paradigamas y lenguajes, ademas de persistencia de datos mediante una base de datos para poder entregar un proyecto con los todos los conocimientos adquiridos en la materia_
+
 ## Tecnologias 🛠️
-### * Lenguajes de programación 📋
+### * Lenguajes de programación 
 
 * _java._
 * _java script._
@@ -61,12 +69,7 @@ _Y ¡listo! estara listo para poder jugar y disfrutar de nuestro proyecto_
 
 _Dentro de la pantalla principal encontrara una rapida descripcion de como jugar, pero si quiere ver a profundidad podra dirigirse al [manual de usuario](https://docs.google.com/document/d/1_1xG-I4BUe_AhZXbyncn41_YGPMd3mYa5fidoe1czKA/edit?usp=sharing) donde encontrara una descripción completa y detallada de los componentes y caracteristicas del juego_
 
-
-## Autores ✒️
-
-* Jhojan Esneyder Rizo Arias – 20192020027
-* José Miguel Guzmán Quevedo – 20182020127
-* Juan Sebastián González Forero – 20181020029	
+_Bienvenido y buena suerte_
 
 ## Agradecimientos  📋
 
