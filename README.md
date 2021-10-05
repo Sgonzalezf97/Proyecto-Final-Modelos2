@@ -65,6 +65,8 @@ _Una vez dentro encontrara todos los componentes anteriormente mencionados_
 
 _Al ejecutar la aplicacion se le mostrara una pantalla como esta:_
 
+![alt text](https://github.com/Sgonzalezf97/Proyecto-Final-Modelos2/blob/main/Portada.png)
+
 _Y ¡listo! estara listo para poder jugar y disfrutar de nuestro proyecto_
 
 _Dentro de la pantalla principal encontrara una rapida descripcion de como jugar, pero si quiere ver a profundidad podra dirigirse al [manual de usuario](https://docs.google.com/document/d/1_1xG-I4BUe_AhZXbyncn41_YGPMd3mYa5fidoe1czKA/edit?usp=sharing) donde encontrara una descripción completa y detallada de los componentes y caracteristicas del juego_
